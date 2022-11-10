@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "arifah nur q",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -44,7 +44,15 @@
     "versionPublish": "5.6.13",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/dm-128x191.png",
+    "mbrsiteDomain": "arifah1103",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
